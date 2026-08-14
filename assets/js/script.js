@@ -152,7 +152,7 @@
     scheduleBtn.addEventListener("click", function (e) {
       e.preventDefault();
       var url =
-        "https://wa.me/5500000000000?text=" +
+        "https://wa.me/5521981668039?text=Ol%C3%A1%21%20Quero%20fazer%20um%20or%C3%A7amento%20de%20um%20site." +
         encodeURIComponent("Olá! Gostaria de agendar uma reunião com a BeWork.");
       window.open(url, "_blank", "noopener,noreferrer");
     });

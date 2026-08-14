@@ -71,7 +71,7 @@ O modal fecha ao clicar fora, no ✕, ou pressionando **Esc**, e mantém o foco 
 
 Busque por estes trechos no `index.html` e troque pelos dados reais da BeWork:
 
-- `https://wa.me/5500000000000` → número real de WhatsApp (formato `55DDD9XXXXXXXX`, sem espaços ou símbolos).
+- Número de WhatsApp já configurado: `5521981668039`, com mensagem pré-definida "Olá! Quero fazer um orçamento de um site." em todos os botões (header, hero, CTA final e botão flutuante).
 - `contato@bework.studio` → e-mail real de contato.
 - Links de Instagram/LinkedIn no rodapé (atualmente `href="#"`).
 - URL real de agendamento (Calendly, Google Calendar etc.) no botão "📅 Agendar Reunião" — hoje ele abre o WhatsApp por padrão.
