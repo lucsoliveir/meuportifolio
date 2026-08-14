@@ -539,7 +539,7 @@ body::before{
    ========================================================================== */
 
 .diferenciais{ padding: 60px 0 120px; position: relative; z-index: 1; }
-.diff-grid{ display: grid; grid-template-columns: repeat(4, 1fr); gap: 22px; }
+.diff-grid{ display: grid; grid-template-columns: repeat(3, 1fr); gap: 22px; }
 
 .diff-card{
   background: rgba(30, 38, 56, 0.5);
